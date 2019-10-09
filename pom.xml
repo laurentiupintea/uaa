@@ -421,7 +421,7 @@
                         <os>Linux</os>
                         <javaVersion>java11</javaVersion>
                     </runtime>
-                    <pricingTier>B1V2</pricingTier>
+                    <pricingTier>P1V2</pricingTier>
                     <region>North Europe</region>
                     <deployment>
                         <resources>
